@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/etcd:3.1.10
+FROM gcr.io/etcd-development/etcd:v3.2.5
