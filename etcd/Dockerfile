@@ -1,1 +1,1 @@
-FROM gcr.io/etcd-development/etcd:v3.2.7
+FROM gcr.io/etcd-development/etcd:v3.0.17
